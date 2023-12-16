@@ -30,12 +30,12 @@ I am a front-end developer that have mastered skills like **HTML**, **CSS**, and
 <br>
 
 ## <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="25"> How to reach me
-<a href="www.linkedin.com/in/mohammadmahdi-hosseinzadeh" target="blank"><img align="center" src="https://mhosseinzadeh.host.webr.ir/img/linkedin.svg" alt="linkedin" height="30" width="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/hossein_h.z.9190" target="blank"><img align="center" src="https://mhosseinzadeh.host.webr.ir/img1/instagram.svg" alt="instagram" height="30" width="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/mmhosseinzadeh9190" target="blank"><img align="center" src="https://mhosseinzadeh.host.webr.ir/img/telegram.svg" alt="telegram" height="30" width="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/HOSSEIN_HZ9190" target="blank"><img align="center" src="https://mhosseinzadeh.host.webr.ir/img/twitter.svg" alt="twitter" height="30" width="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/hosseinzadeh9190" target="blank"><img align="center" src="https://mhosseinzadeh.host.webr.ir/img/facebook.svg" alt="facebook" height="30" width="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mohammadmahdihosseinzadeh68@gmail.com" target="blank"><img align="center" src="https://mhosseinzadeh.host.webr.ir/img/gmail.svg" alt="gmail" height="30" width="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="www.linkedin.com/in/mohammadmahdi-hosseinzadeh" target="blank"><img align="center" src="https://mhosseinzadeh.host.webr.ir/img/linkedin.svg" alt="linkedin" height="30" width="30"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/hossein_h.z.9190" target="blank"><img align="center" src="https://mhosseinzadeh.host.webr.ir/img1/instagram.svg" alt="instagram" height="30" width="30"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/mmhosseinzadeh9190" target="blank"><img align="center" src="https://mhosseinzadeh.host.webr.ir/img/telegram.svg" alt="telegram" height="30" width="30"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/HOSSEIN_HZ9190" target="blank"><img align="center" src="https://mhosseinzadeh.host.webr.ir/img/twitter.svg" alt="twitter" height="30" width="30"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/hosseinzadeh9190" target="blank"><img align="center" src="https://mhosseinzadeh.host.webr.ir/img/facebook.svg" alt="facebook" height="30" width="30"></a>&nbsp;&nbsp;&nbsp;
+<a href="mohammadmahdihosseinzadeh68@gmail.com" target="blank"><img align="center" src="https://mhosseinzadeh.host.webr.ir/img/gmail.svg" alt="gmail" height="30" width="30"></a>&nbsp;&nbsp;&nbsp;
 
 <br>
 

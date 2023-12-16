@@ -16,7 +16,7 @@ I am a front-end developer that have mastered skills like **HTML**, **CSS**, and
 
 <br>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px"> Frameworks
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="18px"> Frameworks
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)

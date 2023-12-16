@@ -29,8 +29,10 @@ I am a front-end developer that have mastered skills like **HTML**, **CSS**, and
 
 <br>
 
-## <picture><img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="30"></picture> Social media
-
+## <picture><img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="30"></picture> How to reach me
+<a href="https://linkedin.com/in/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://twitter.com/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://fb.com/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/facebook.svg" alt="kmhmubin" height="30" width="30" /></a>
 
 <br>
 

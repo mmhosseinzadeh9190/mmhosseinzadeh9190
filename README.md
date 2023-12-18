@@ -2,7 +2,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/mmhosseinzadeh9190.svg?style=social&label=Follow)](https://github.com/mmhosseinzadeh9190?tab=followers)
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="19px"> About me
-I am a front-end developer that have mastered skills like **HTML**, **CSS**, and **JavaScript**. Also, I have designed professional examples of websites using **Figma**. Currently, I am studying front-end frameworks like **Tailwind** and **React** to further enhance my skill set.
+I am a front-end developer who has mastered skills like **HTML**, **CSS**, and **JavaScript**. Also, I have designed professional examples of websites using **Figma**. Currently, I am studying front-end frameworks like **Tailwind** and **React** to further enhance my skill set.
 
 <br>
 

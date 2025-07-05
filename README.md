@@ -1,15 +1,17 @@
 # Hi there, Welcome to my profile! <img src="https://github.com/mmhosseinzadeh9190/mmhosseinzadeh9190/blob/main/bye-bye.gif?raw=true" width="25px">
 
 ## <img src="https://github.com/mmhosseinzadeh9190/mmhosseinzadeh9190/blob/main/about-me.gif?raw=true" width="19px"> About me
-Hello! My name is **Mohammad Mahdi Hosseinzadeh**, I am **21** years old, and I live in **Iran**.
+Hello! My name is **Mohammad Mahdi Hosseinzadeh**, I am **22** years old, and I live in **Iran**.
 
-As a front-end developer, I possess advanced skills in **HTML**, **CSS**, and **JavaScript**, with a focus on designing and creating exceptional user experiences for websites and admin panels.
+As a front-end developer, I specialize in **HTML**, **CSS**, and **JavaScript**, with a strong focus on building user-friendly websites and admin panels that deliver exceptional experiences.
 
-I have a strong command of **React** and **Tailwind CSS**, along with a solid understanding of **TypeScript**, which has positively contributed to my development process. My designs are guided by **UI** and **UX** principles and **Material Design**, aiming to deliver innovative and engaging experiences for users.
+I am proficient in **React**, **Tailwind CSS**, and **TypeScript**, and I apply **UI/UX** principles and **Material Design** guidelines in all my projects to ensure visually appealing and highly functional interfaces.
 
-Currently, I am learning **Next.js** to further enhance my abilities in developing advanced web applications and optimizing their SEO.
+Recently, I have completed learning **Next.js**, which has significantly improved my ability to build advanced, SEO-optimized web applications using modern technologies.
 
-I am eager to collaborate on team projects and take on challenging tasks, always looking to learn new skills and expand my knowledge in the ever-evolving field of technology.
+I am passionate about team collaboration and taking on challenging tasks. I am currently preparing to learn **Node.js** and **Express.js** to expand my skills into full-stack development and deepen my backend knowledge.
+
+I am always eager to learn, improve, and stay up-to-date with the ever-evolving tech industry.
 
 <br>
 
@@ -24,6 +26,7 @@ I am eager to collaborate on team projects and take on challenging tasks, always
 <br>
 
 ## <img src="https://github.com/mmhosseinzadeh9190/mmhosseinzadeh9190/blob/main/star.gif?raw=true" width="19px"> Frameworks & Libraries
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
@@ -47,7 +50,8 @@ I am eager to collaborate on team projects and take on challenging tasks, always
 <br>
 
 ## <img src="https://github.com/mmhosseinzadeh9190/mmhosseinzadeh9190/blob/main/github-cat-2.gif?raw=true" width="21px"> Learning
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
 
 <br>
 
@@ -63,4 +67,4 @@ I am eager to collaborate on team projects and take on challenging tasks, always
 
 Credit: [Mohammadmahdi Hosseinzadeh](https://github.com/mmhosseinzadeh9190)
 
-Last Edited on: 10/18/2024
+Last Edited on: 07/05/2025
